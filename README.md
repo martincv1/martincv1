@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @martincv1
+- 👋 Hi, I’m @martincv1.
 - 👀 I’m interested in physics and programming tools
 - 🌱 I’m currently learning Python
 <!--- 💞️ I’m looking to collaborate on ...
